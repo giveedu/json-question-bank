@@ -29,9 +29,9 @@
  		}
  	};
 
- 	UnitTestCase.prototype.method_name = function() {
+ 	UnitTestCase.prototype.repr = function() {
  		var repString = "Unit Test(" + this.tname + ") ";
- 		return repString + "expected: " + this.expected +
+ 		return repString + "expected: " + this.expected.toString() +
  		                 " result: " + this.result.toString() +
  		                 (this.passed ? " PASSED" : " FAILED");
  	};

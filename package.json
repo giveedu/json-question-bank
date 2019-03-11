@@ -1,10 +1,11 @@
 {
-  "name": "giveedu@json-question-bank",
+  "name": "json-question-bank",
   "version": "1.0.0",
   "description": "A storage and search system for multiple choice questions",
   "main": "index.js",
   "scripts": {
-    "test": "node test/test.js"
+    "test": "node tests/test_unit_test.js",
+    "test_unit_test": "node tests/test_unit_test.js"
   },
   "repository": {
     "type": "git",
