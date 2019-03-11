@@ -1,0 +1,25 @@
+{
+  "name": "json-question-bank",
+  "version": "1.0.0",
+  "description": "A storage and search system for multiple choice questions",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giveedu/json-question-bank.git"
+  },
+  "keywords": [
+    "education",
+    "learning",
+    "question",
+    "academic"
+  ],
+  "author": "GiveEdu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giveedu/json-question-bank/issues"
+  },
+  "homepage": "https://github.com/giveedu/json-question-bank#readme"
+}
