@@ -1,5 +1,5 @@
 {
-  "name": "json-question-bank",
+  "name": "giveedu@json-question-bank",
   "version": "1.0.0",
   "description": "A storage and search system for multiple choice questions",
   "main": "index.js",
