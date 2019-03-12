@@ -4,8 +4,9 @@
   "description": "A storage and search system for multiple choice questions",
   "main": "index.js",
   "scripts": {
-    "test": "node tests/test_unit_test.js",
-    "test_unit_test": "node tests/test_unit_test.js"
+    "test": "node tests/test_unit_test.js && node tests/test_question_obj.js",
+    "test_unit_test": "node tests/test_unit_test.js",
+    "test_question_obj": "node tests/test_question_obj.js"
   },
   "repository": {
     "type": "git",

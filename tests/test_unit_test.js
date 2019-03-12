@@ -8,4 +8,4 @@ function test_units(num) {
 var test_case = new unit_test.UnitTestCase("test_units", test_units, 6);
 test_case.testSingleArg(1);
 test_case.validate();
-console.log(test_case.repr())
+console.log(test_case.repr());
