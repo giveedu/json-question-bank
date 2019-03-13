@@ -1,6 +1,6 @@
 {
   "name": "@giveedu/json-question-bank",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A storage and search system for multiple choice questions",
   "main": "main.js",
   "scripts": {
@@ -19,7 +19,7 @@
     "academic"
   ],
   "author": "GiveEdu",
-  "license": "ISC",
+  "license": "AGPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/giveedu/json-question-bank/issues"
   },
